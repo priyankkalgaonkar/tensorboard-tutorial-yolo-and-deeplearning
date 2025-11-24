@@ -9,13 +9,7 @@ This repository contains a complete Google Colab tutorial demonstrating how to u
 The notebook walks through enabling TensorBoard, writing logs, visualizing metrics, and integrating logging directly into model training workflows.
 
 ## File Included
-
-TensorBoard_Tutorial.ipynb
-
-markdown
-Copy code
-
-This is the full Google Colab notebook.
+- TensorBoard_Tutorial.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lB82opvIUYZ3HJgP5_RoZNRwnx2DU_Lf?usp=sharing)
 
 ## How to Use This Notebook
 
