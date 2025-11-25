@@ -13,10 +13,8 @@ The notebook walks through enabling TensorBoard, writing logs, visualizing metri
 
 ## How to Use This Notebook
 
-1. Upload the notebook to your GitHub repository.
-2. Open it using Google Colab.
-3. Run:  
-   **Runtime → Run all**
+1. Open it using Google Colab.
+2. Run: **Runtime → Run all**
 
 TensorBoard will launch inside Colab and display:
 - Loss curves
